@@ -1,45 +1,46 @@
-Welcome to My Profile!
+# Welcome to My Profile!
 
-Hello! I'm Daniel M. Pinto, a Control and Automation Engineer with experience in embedded systems and the development of non-invasive measurement devices.
-About Me
+Hello! I'm **Daniel M. Pinto**, a Control and Automation Engineer with experience in embedded systems and the development of non-invasive measurement devices.
 
-    Education: Bachelor's degree in Control and Automation Engineering from Faculdade Engenheiro Salvador Arena.
-    Experience: Engineering Laboratory Technician at Insper Instituto de Ensino e Pesquisa, with experience as a Laboratory Assistant at the same institute. Internships at various labs in the Mauá Institute of Technology.
-    Interests: Embedded systems (embedded Linux, FPGA, edge computing), agile methodologies, usability testing, and project management.
+## About Me
 
-Contact
+- **Education:** Bachelor's degree in Control and Automation Engineering from Faculdade Engenheiro Salvador Arena.
+- **Experience:** Engineering Laboratory Technician at Insper Instituto de Ensino e Pesquisa, with experience as a Laboratory Assistant at the same institute. Internships at various labs in the Mauá Institute of Technology.
+- **Interests:** Embedded systems (embedded Linux, FPGA, edge computing), agile methodologies, usability testing, and project management.
 
-    Email: danielmessias.engenharia@gmail.com
-    LinkedIn: www.linkedin.com/in/danielmpinto
-    Lattes: http://lattes.cnpq.br/7063254161193332
+## Contact
 
-Top Skills
+- **Email:** [danielmessias.engenharia@gmail.com](mailto:danielmessias.engenharia@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/danielmpinto](https://www.linkedin.com/in/danielmpinto)
+- **Lattes:** [http://lattes.cnpq.br/7063254161193332](http://lattes.cnpq.br/7063254161193332)
 
-    Technologies: I2C, DMA, RP2040
-    Languages: English (Full Professional), Libras (Elementary), Portuguese (Native)
+## Top Skills
 
-Certifications
+- **Technologies:** I2C, DMA, RP2040
+- **Languages:** English (Full Professional), Libras (Elementary), Portuguese (Native)
 
-    Scientific Computing with Python
-    Agile Methods
-    Projects: Design and Management
-    Development of Applications for Embedded Linux
-    FIC in Computer Network Installer and Repairer
+## Certifications
 
-Professional Experience
+- Scientific Computing with Python
+- Agile Methods
+- Projects: Design and Management
+- Development of Applications for Embedded Linux
+- FIC in Computer Network Installer and Repairer
 
-Insper Instituto de Ensino e Pesquisa
+## Professional Experience
 
-    Engineering Laboratory Technician (July 2024 - Present)
-    Laboratory Assistant (January 2022 - July 2024)
+### Insper Instituto de Ensino e Pesquisa
 
-IMT - Instituto Mauá de Tecnologia
+- **Engineering Laboratory Technician** (July 2024 - Present)
+- **Laboratory Assistant** (January 2022 - July 2024)
 
-    CP-DEA Internship (July 2021 - December 2021)
+### IMT - Instituto Mauá de Tecnologia
 
-Education
+- **CP-DEA Internship** (July 2021 - December 2021)
 
-    Faculdade Engenheiro Salvador Arena: Bachelor's in Control and Automation Engineering (2019 - 2024)
-    Etec Lauro Gomes: Technician in Mechatronics (2016 - 2018)
+## Education
+
+- **Faculdade Engenheiro Salvador Arena:** Bachelor's in Control and Automation Engineering (2019 - 2024)
+- **Etec Lauro Gomes:** Technician in Mechatronics (2016 - 2018)
 
 Feel free to explore my profile and contact me for any collaboration or professional opportunities!
