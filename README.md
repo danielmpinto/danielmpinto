@@ -16,7 +16,8 @@ Hello! I'm **Daniel M. Pinto**, a Control and Automation Engineer with experienc
 
 ## Top Skills
 
-- **Technologies:** I2C, DMA, RP2040
+- **Technologies:** Linux, RP2040, embedded software development
+- **Programming Languages:** C, C++, Python, C#
 - **Languages:** English (Full Professional), Libras (Elementary), Portuguese (Native)
 
 ## Certifications
