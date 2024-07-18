@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-Hello! I'm **Daniel M. Pinto**, a Control and Automation Engineer with experience in embedded systems and the development of non-invasive measurement devices.
+Hello! I'm **Daniel M. Pinto**, a Control and Automation Engineer with experience in embedded systems.
 
 ## About Me
 
