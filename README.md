@@ -10,7 +10,6 @@ Hello! I'm **Daniel M. Pinto**, a Control and Automation Engineer with experienc
 
 ## Contact
 
-- **Email:** [danielmessias.engenharia@gmail.com](mailto:danielmessias.engenharia@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/danielmpinto](https://www.linkedin.com/in/danielmpinto)
 - **Lattes:** [http://lattes.cnpq.br/7063254161193332](http://lattes.cnpq.br/7063254161193332)
 
